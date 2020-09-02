@@ -1,7 +1,12 @@
-Code for MERN tutorial.
+A Simple Mern Stack
 
-Video Tutorial: https://www.youtube.com/watch?v=7CqJlxBYj-M
+Connect database 
 
-Article Tutorial: https://medium.com/@beaucarnes/learn-the-mern-stack-by-building-an-exercise-tracker-mern-tutorial-59c13c1237a1
+Backend - 
+npm install
+Run Backend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Project Folder - 
+npm install
+Run - npm start
